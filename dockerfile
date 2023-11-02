@@ -8,4 +8,4 @@ WORKDIR /target
 COPY target/*.jar /
 
 # Define the command to execute your application
-CMD ["java", "-jar", , "myapp.jar"]
+CMD ["java", "-jar", , "myapp1.jar"]
