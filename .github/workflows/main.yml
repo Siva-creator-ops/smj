@@ -29,5 +29,5 @@ jobs:
 
     - name: Build and Push Docker Image
       run: |
-        docker build -t ksiva27/myapp1:latest .
-        docker push ksiva27/myapp1:latest
+        docker build -t ksiva27/myapp:latest .
+        docker push ksiva27/myapp:latest
